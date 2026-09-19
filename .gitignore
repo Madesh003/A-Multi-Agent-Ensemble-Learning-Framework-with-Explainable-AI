@@ -1,0 +1,19 @@
+# Python virtual environments
+venv/
+venv_new/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Large datasets
+data/StormEvents.csv
+
+# Model/cache files
+*.pkl
+*.joblib
+*.h5
+*.pt
+
+# VS Code
+.vscode/
